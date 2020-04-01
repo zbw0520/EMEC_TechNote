@@ -1,0 +1,459 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  1 APR 2020 22:39
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/zhbw/Desktop/布里斯托课程资料/大二/Electro-Mechanical Energy Conversion/latex/template"
+(c:/Users/zhbw/Desktop/布里斯托课程资料/大二/Electro-Mechanical Energy Conversion/latex/template.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-02-25> (./IEEEtran.cls
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen134
+\@IEEEtrantmpdimenB=\dimen135
+\@IEEEtrantmpcountA=\count167
+\@IEEEtrantmpcountB=\count168
+\@IEEEtrantmptoksA=\toks15
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 366.
+(e:/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 210mm x 297mm (a4) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen136
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen137
+\CLASSINFOnormalsizeunitybaselineskip=\dimen138
+\IEEEnormaljot=\dimen139
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen140
+\IEEEilabelindentB=\dimen141
+\IEEEilabelindent=\dimen142
+\IEEEelabelindent=\dimen143
+\IEEEdlabelindent=\dimen144
+\IEEElabelindent=\dimen145
+\IEEEiednormlabelsep=\dimen146
+\IEEEiedmathlabelsep=\dimen147
+\IEEEiedtopsep=\skip47
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@IEEEsubequation=\count173
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\c@figure=\count174
+\c@table=\count175
+\@IEEEeqnnumcols=\count176
+\@IEEEeqncolcnt=\count177
+\@IEEEtmpitemindent=\dimen148
+\c@IEEEbiography=\count178
+\@IEEEtranrubishbin=\box45
+) (e:/texlive/2019/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (e:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (e:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (e:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (e:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (e:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (e:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (e:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (e:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(e:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (e:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen151
+)) (e:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen152
+) (e:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count179
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count180
+\leftroot@=\count181
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count182
+\DOTSCASE@=\count183
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box46
+\strutbox@=\box47
+\big@size=\dimen153
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count184
+\c@MaxMatrixCols=\count185
+\dotsspace@=\muskip16
+\c@parentequation=\count186
+\dspbrk@lvl=\count187
+\tag@help=\toks20
+\row@=\count188
+\column@=\count189
+\maxfields@=\count190
+\andhelp@=\toks21
+\eqnshift@=\dimen154
+\alignsep@=\dimen155
+\tagshift@=\dimen156
+\tagwidth@=\dimen157
+\totwidth@=\dimen158
+\lineht@=\dimen159
+\@envbody=\toks22
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (e:/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (e:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (e:/texlive/2019/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count191
+\float@exts=\toks24
+\float@box=\box48
+\@float@everytoks=\toks25
+\@floatcapt=\box49
+) (e:/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (e:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (e:/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (e:/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks26
+) (e:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count195
+\l__pdf_internal_box=\box50
+) (./template.aux
+
+LaTeX Warning: Label `BBH' multiply defined.
+
+)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+ (e:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen168
+\scratchbox=\box51
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen169
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks28
+) (e:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (e:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(68.28644pt, 677.17577pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=677.17577pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-34.05104pt
+* \headheight=12.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=28.90755pt
+* \marginparwidth=20.0pt
+* \marginparsep=10.0pt
+* \columnsep=17.34518pt
+* \skip\footins=10.79993pt plus 4.79993pt minus 2.39996pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 227.
+(e:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 227.
+ (e:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<CAD_model_of_actuator.jpg, id=1, 249.93375pt x 207.77625pt>
+File: CAD_model_of_actuator.jpg Graphic file (type jpg)
+<use CAD_model_of_actuator.jpg>
+Package pdftex.def Info: CAD_model_of_actuator.jpg  used on input line 260.
+(pdftex.def)             Requested size: 199.94727pt x 166.2212pt.
+ [1{e:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Package epstopdf Info: Source file: <P-I.eps>
+(epstopdf)                    date: 2020-03-15 01:23:46
+(epstopdf)                    size: 17790 bytes
+(epstopdf)             Output file: <P-I-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-03-15 01:23:53
+(epstopdf)                    size: 7008 bytes
+(epstopdf)             Command: <repstopdf --outfile=P-I-eps-converted-to.pdf P-I.eps>
+(epstopdf)             \includegraphics on input line 283.
+Package epstopdf Info: Output file is already uptodate.
+<P-I-eps-converted-to.pdf, id=17, 421.575pt x 317.185pt>
+File: P-I-eps-converted-to.pdf Graphic file (type pdf)
+<use P-I-eps-converted-to.pdf>
+Package pdftex.def Info: P-I-eps-converted-to.pdf  used on input line 283.
+(pdftex.def)             Requested size: 231.86696pt x 174.45227pt.
+<a.jpg, id=18, 295.1025pt x 148.1535pt>
+File: a.jpg Graphic file (type jpg)
+<use a.jpg>
+Package pdftex.def Info: a.jpg  used on input line 296.
+(pdftex.def)             Requested size: 206.57033pt x 103.70674pt.
+<b.jpg, id=19, 564.30824pt x 310.761pt>
+File: b.jpg Graphic file (type jpg)
+<use b.jpg>
+Package pdftex.def Info: b.jpg  used on input line 303.
+(pdftex.def)             Requested size: 225.71928pt x 124.30219pt.
+ [2 <./CAD_model_of_actuator.jpg> <./P-I-eps-converted-to.pdf> <./a.jpg> <./b.jpg>]
+<induc1.jpg, id=29, 702.625pt x 527.9725pt>
+File: induc1.jpg Graphic file (type jpg)
+<use induc1.jpg>
+Package pdftex.def Info: induc1.jpg  used on input line 382.
+(pdftex.def)             Requested size: 281.04501pt x 211.18526pt.
+
+Overfull \hbox (33.64279pt too wide) in paragraph at lines 382--383
+ [][] 
+ []
+
+[3 <./induc1.jpg>]
+<BH.jpg, id=34, 522.15076pt x 455.90324pt>
+File: BH.jpg Graphic file (type jpg)
+<use BH.jpg>
+Package pdftex.def Info: BH.jpg  used on input line 402.
+(pdftex.def)             Requested size: 208.8566pt x 182.35806pt.
+<Simulink.jpg, id=35, 470.35725pt x 352.31625pt>
+File: Simulink.jpg Graphic file (type jpg)
+<use Simulink.jpg>
+Package pdftex.def Info: Simulink.jpg  used on input line 448.
+(pdftex.def)             Requested size: 235.17804pt x 176.15768pt.
+ [4 <./BH.jpg> <./simulink.jpg>]
+<BHcurve.jpg, id=40, 702.625pt x 527.9725pt>
+File: BHcurve.jpg Graphic file (type jpg)
+<use BHcurve.jpg>
+Package pdftex.def Info: BHcurve.jpg  used on input line 474.
+(pdftex.def)             Requested size: 245.92242pt x 184.79314pt.
+<psi-i_nonlinear.jpg, id=41, 702.625pt x 527.9725pt>
+File: psi-i_nonlinear.jpg Graphic file (type jpg)
+<use psi-i_nonlinear.jpg>
+Package pdftex.def Info: psi-i_nonlinear.jpg  used on input line 500.
+(pdftex.def)             Requested size: 210.78912pt x 158.39296pt.
+<psi-i_nonlinear_full.jpg, id=42, 702.625pt x 527.9725pt>
+File: psi-i_nonlinear_full.jpg Graphic file (type jpg)
+<use psi-i_nonlinear_full.jpg>
+Package pdftex.def Info: psi-i_nonlinear_full.jpg  used on input line 519.
+(pdftex.def)             Requested size: 210.78912pt x 158.39296pt.
+<psi-i_linear_full.jpg, id=43, 702.625pt x 526.96875pt>
+File: psi-i_linear_full.jpg Graphic file (type jpg)
+<use psi-i_linear_full.jpg>
+Package pdftex.def Info: psi-i_linear_full.jpg  used on input line 528.
+(pdftex.def)             Requested size: 210.78912pt x 158.09184pt.
+ [5 <./BHcurve.jpg> <./psi-i_nonlinear.jpg> <./psi-i_nonlinear_full.jpg>]
+<The Psi-I Curve Using Analytical Method Considering Aeff.jpg, id=49, 702.625pt x 527.9725pt>
+File: The Psi-I Curve Using Analytical Method Considering Aeff.jpg Graphic file (type jpg)
+<use The Psi-I Curve Using Analytical Method Considering Aeff.jpg>
+Package pdftex.def Info: The Psi-I Curve Using Analytical Method Considering Aeff.jpg  used on input line 546.
+(pdftex.def)             Requested size: 210.78912pt x 158.39296pt.
+<The Psi-I Curve Using Analytical Method Not Considering Aeff.jpg, id=50, 702.625pt x 527.9725pt>
+File: The Psi-I Curve Using Analytical Method Not Considering Aeff.jpg Graphic file (type jpg)
+<use The Psi-I Curve Using Analytical Method Not Considering Aeff.jpg>
+Package pdftex.def Info: The Psi-I Curve Using Analytical Method Not Considering Aeff.jpg  used on input line 554.
+(pdftex.def)             Requested size: 210.78912pt x 158.39296pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--583
+[]\OT1/ptm/m/n/8 Coenergy mea-sured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--584
+[]\OT1/ptm/m/n/8 Coenergy mea-sured
+ []
+
+
+Overfull \hbox (1.99342pt too wide) in paragraph at lines 581--620
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<force-displacement.jpg, id=51, 702.625pt x 526.96875pt>
+File: force-displacement.jpg Graphic file (type jpg)
+<use force-displacement.jpg>
+Package pdftex.def Info: force-displacement.jpg  used on input line 636.
+(pdftex.def)             Requested size: 245.92242pt x 184.44182pt.
+[6 <./psi-i_linear_full.jpg> <./The Psi-I Curve Using Analytical Method Considering Aeff.jpg> <./The Psi-I Curve Using Analytical Method Not Considering Aeff.jpg>]
+<mesh_without_segment_meshing.jpg, id=56, 299.31825pt x 338.4645pt>
+File: mesh_without_segment_meshing.jpg Graphic file (type jpg)
+<use mesh_without_segment_meshing.jpg>
+Package pdftex.def Info: mesh_without_segment_meshing.jpg  used on input line 665.
+(pdftex.def)             Requested size: 149.65875pt x 169.23183pt.
+<mesh_with_segment_meshing.jpg, id=57, 299.9205pt x 338.4645pt>
+File: mesh_with_segment_meshing.jpg Graphic file (type jpg)
+<use mesh_with_segment_meshing.jpg>
+Package pdftex.def Info: mesh_with_segment_meshing.jpg  used on input line 672.
+(pdftex.def)             Requested size: 149.95987pt x 169.23183pt.
+ [7 <./force-displacement.jpg> <./mesh_without_segment_meshing.jpg>]
+<automeshing.jpg, id=62, 304.13625pt x 336.0555pt>
+File: automeshing.jpg Graphic file (type jpg)
+<use automeshing.jpg>
+Package pdftex.def Info: automeshing.jpg  used on input line 688.
+(pdftex.def)             Requested size: 152.06775pt x 168.02733pt.
+<nonautomeshing.jpg, id=63, 302.3295pt x 335.45325pt>
+File: nonautomeshing.jpg Graphic file (type jpg)
+<use nonautomeshing.jpg>
+Package pdftex.def Info: nonautomeshing.jpg  used on input line 695.
+(pdftex.def)             Requested size: 151.16437pt x 167.7262pt.
+ (./template.bbl [8 <./mesh_with_segment_meshing.jpg> <./automeshing.jpg> <./nonautomeshing.jpg>]
+Underfull \hbox (badness 1540) in paragraph at lines 64--66
+[]\OT1/ptm/m/n/8 Wikipedia, ``Com-par-i-son of EM sim-u-la-tion soft-ware,'' $https : / / en .
+ []
+
+) [9
+
+] (./template.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 387 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 3885 strings out of 480994
+ 56829 string characters out of 5916032
+ 310010 words of memory out of 5000000
+ 19339 multiletter control sequences out of 15000+600000
+ 571007 words of font info for 97 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,10n,31p,387b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+{e:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><e:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><e:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><e:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><e:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><e:/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on template.pdf (9 pages, 1393527 bytes).
+PDF statistics:
+ 122 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
